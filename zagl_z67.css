@@ -1,11 +1,11 @@
 p:first-letter
 {
-	font-size: 114pt;
-	color: orange;
+	font-size: 116pt;
+	color: yellow;
 }
 p
 {
-	font-size:19pt;
+	font-size:21pt;
 	color:turquoise;
 }
 
@@ -21,7 +21,7 @@ h1:first-letter
 }
 p#linia:first-line
 {
-  color:red;
+  color:blue;
   font-size:15pt;
 }
 p#linia

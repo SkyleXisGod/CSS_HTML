@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<LINK href="zagl_z59.css" rel="stylesheet" type="text/CSS">
+		<style type="text/css">
+		div {
+        background : black;
+        width : 900px;
+        border : 5px double DarkKhaki;
+</style>
+	</head>
+	<body>
+	<center>
+		<h1><div style="color: red; size: 2cm;" width=90% height=5%> Kacper    Zagłoba    13.12.2022</div><br></h1>
+		
+		<a href="http://www.kuratorium.gda.pl" target="strona"><h1>| = = = - - - Kuratorium - - - = = = | </h1></a><br>
+		<br>
+		<a href="https://zse.edu.gdansk.pl/pl" target="strona"><h1>| = = = - - - ZSE Gdansk - - - = = = | </h1></a>
+		
+		</center>
+	</body>
+</html>
